@@ -1,0 +1,41 @@
+/* Structure of a Doubly Linked List Node
+class Node {
+    int data;
+    Node next;
+    Node prev;
+
+    Node(int val) {
+        data = val;
+        next = null;
+        prev = null;
+    }
+}
+*/
+class Solution {
+    public Node delPos(Node head, int x) {
+        int count = 0 ;
+        Node newnode = head.next ;
+        if(x == 1){
+            head =  head.next ;
+            if(head != null){
+                head.prev = null ;
+            }
+            return head ;
+        }
+        Node curr = head ;
+        for(int i=1;i<x && head.next != null ;i++){
+            curr = curr.next ;
+        }
+        // ege cade one is if curr is at a null 
+        if(curr == null){
+            return head ;
+        }
+        if(curr.prev != null){
+            curr.prev.next = curr.next ;
+        }
+        if(curr.next != null){
+            curr.next.prev = curr.prev ;
+        }
+        return head ;
+    }
+}
