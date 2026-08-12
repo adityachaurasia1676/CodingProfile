@@ -10,3 +10,5 @@
 | 3 | GFG. Insert in Sorted way in a Sorted DLL | GeeksforGeeks | doubly-linked-list | N/A | Java (21) |
 
 | 4 | GFG. Reverse a Doubly Linked List | GeeksforGeeks | doubly-linked-list | N/A | Java (21) |
+
+| 5 | 1472. Design Browser History | LeetCode | Array | Medium | Choose a type |
