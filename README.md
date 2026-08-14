@@ -12,3 +12,5 @@
 | 4 | GFG. Reverse a Doubly Linked List | GeeksforGeeks | doubly-linked-list | N/A | Java (21) |
 
 | 5 | 1472. Design Browser History | LeetCode | Array | Medium | Choose a type |
+
+| 6 | GFG. Pair With Difference | GeeksforGeeks | Sorting | N/A | Java (21) |
