@@ -20,3 +20,5 @@
 | 8 | 19. Remove Nth Node From End of List | LeetCode | Linked List | Medium | Choose a type |
 
 | 9 | 90. Subsets II | LeetCode | Array | Medium | Choose a type |
+
+| 10 | 136. Single Number | LeetCode | Array | Easy | Choose a type |
