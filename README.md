@@ -16,3 +16,5 @@
 | 6 | GFG. Pair With Difference | GeeksforGeeks | Sorting | N/A | Java (21) |
 
 | 7 | 1. Two Sum | LeetCode | Array | Easy | Choose a type |
+
+| 8 | 19. Remove Nth Node From End of List | LeetCode | Linked List | Medium | Choose a type |
